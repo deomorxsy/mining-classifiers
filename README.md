@@ -18,7 +18,7 @@ source ./pyjail/bin/activate
 
 ```
 pip3 install --upgrade pip
-pip3 install numpy pandas matplotlib seaborn sklearn jupyter
+pip3 install wheel numpy pandas matplotlib seaborn sklearn jupyter
 ```
 
  4. Na raíz do projeto, execute o notebook e acesse a URL com o token de endereço no browser ().:
