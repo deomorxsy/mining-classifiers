@@ -1,3 +1,6 @@
+# local notebooks
+builda-v1_notes.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

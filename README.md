@@ -1,6 +1,8 @@
-# mining-classifiers
+## mining-classifiers
 
-## Steps to reproduce this environment
+Supervised data mining using classifiers.
+
+### Steps to reproduce this environment
 
 0. Python v3.10.6
 1. Clone o repositório:
@@ -26,6 +28,10 @@ pip3 install wheel numpy pandas matplotlib seaborn sklearn jupyter
 jupyter notebook
 ```
 
+5. Ao final, desative a virtualenv:
+```
+deactivate
+```
 
 
 
